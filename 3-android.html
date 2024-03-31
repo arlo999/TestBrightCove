@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Android</title>
+</head>
+<body>
+
+    <div style="width: 960px;">
+        <video-js
+          data-account="6415481115001"
+          data-player="default"
+          data-embed="default"
+          controls=""
+          data-video-id="6350046852112"
+          data-playlist-id=""
+          data-application-id=""
+          width="960" height="540"
+          class="vjs-fluid"></video-js>
+      </div>
+
+  <button id="playButton">Play</button>
+</body>
+<script
+src="https://players.brightcove.net/6415481115001/default_default/index.min.js">
+</script>
+<script>
+
+
+
+    const myPlayer = videojs.getPlayer("IdPlayer");
+    myPlayer.ready(function () {
+    document.getElementById("playButton").addEventListener("click", function(){
+            myPlayer.muted(true);
+            myPlayer.play();
+        });
+  })
+
+  myPlayer.on("timeupdate", function () {
+
+    console.log(myPlayer.currentTime());
+
+    const currentTime = myPlayer.currentTime();
+    if (currentTime >= 10.0 && currentTime <= 10.1) {
+      myPlayer.currentTime(currentTime + 20);
+    }
+  })
+  //myPlayer.trigger({type: 'timeupdate', target: myPlayer },)
+  //console.log(myPlayer.trigger)
+  //cambie de entorno de desarrollo 
+</script>
+
+</html>

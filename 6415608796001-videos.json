@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "6348503545112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2024-03-08T19:31:29.138Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "remote",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 0,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "Test Cisco",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2024-03-08T19:31:29.138Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2024-03-08T19:31:29.480Z",
+    "updated_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": null
+  },
+  {
+    "id": "6347943109112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2024-02-29T19:04:39.480Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "remote",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 0,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "ojojokob",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2024-02-29T19:04:39.480Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2024-02-29T19:04:39.811Z",
+    "updated_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": null
+  },
+  {
+    "id": "6347795701112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2024-02-28T02:40:04.369Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "live_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": -1,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "HLS_and_DASH_Formats",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2024-02-28T02:40:04.362Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2024-02-28T02:40:05.244Z",
+    "updated_by": {
+      "type": "api_key"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": null
+  },
+  {
+    "id": "6347795191112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2024-02-28T02:34:39.258Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "live_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": -1,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "HLS_and_DASH_Formats",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2024-02-28T02:34:39.252Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2024-02-28T02:34:40.090Z",
+    "updated_by": {
+      "type": "api_key"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": null
+  },
+  {
+    "id": "6341267556112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-11-16T22:35:56.452Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076272331",
+      "email": "dvidaurri@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 27392,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/773e7f8d-3589-400f-8ba1-746c501c08b1/main/1280x720/13s696ms/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/773e7f8d-3589-400f-8ba1-746c501c08b1/main/1280x720/13s696ms/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      },
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/773e7f8d-3589-400f-8ba1-746c501c08b1/main/160x90/13s696ms/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/773e7f8d-3589-400f-8ba1-746c501c08b1/main/160x90/13s696ms/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "Download closed captions",
+    "original_filename": "Screen Recording 2023-11-16 at 4.34.41 p.m..mov",
+    "projection": null,
+    "published_at": "2023-11-16T22:35:56.451Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-11-16T22:38:30.695Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "f984445692374bd99e6270d8"
+  },
+  {
+    "id": "6340885587112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-11-10T18:04:02.494Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "live_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": -1,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "DRMTST",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2023-11-10T18:04:02.487Z",
+    "reference_id": "111",
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-11-10T18:05:07.445Z",
+    "updated_by": {
+      "type": "user",
+      "id": "76076174294",
+      "email": "ereyes@brightcove.com"
+    },
+    "playback_rights_id": "a1af9eb9-647c-4d0a-848b-cd45e1e79748",
+    "ingestion_profile_id": null
+  },
+  {
+    "id": "6340884384112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-11-10T17:12:54.159Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "live_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": -1,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "TEST DRM TRAINING ",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2023-11-10T17:12:54.152Z",
+    "reference_id": "DRMTST",
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-11-10T17:55:00.708Z",
+    "updated_by": {
+      "type": "user",
+      "id": "76076174294",
+      "email": "ereyes@brightcove.com"
+    },
+    "playback_rights_id": "a1af9eb9-647c-4d0a-848b-cd45e1e79748",
+    "ingestion_profile_id": null
+  },
+  {
+    "id": "6340197324112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-31T03:32:23.090Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 60000,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/7dfcc87c-0d43-42c7-9f36-34a5b84080fa/main/1280x720/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/7dfcc87c-0d43-42c7-9f36-34a5b84080fa/main/1280x720/30s/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      },
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/7dfcc87c-0d43-42c7-9f36-34a5b84080fa/main/160x90/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/7dfcc87c-0d43-42c7-9f36-34a5b84080fa/main/160x90/30s/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "main (1)",
+    "original_filename": "main (1).mp4",
+    "projection": null,
+    "published_at": "2023-10-31T03:32:23.089Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-31T03:35:52.936Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "1f6f2d9a603f4b7d871e149d"
+  },
+  {
+    "id": "6340197882112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-31T03:32:08.076Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 60000,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/f06ed23a-829b-444b-bd62-a92f7adeca95/main/160x90/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/f06ed23a-829b-444b-bd62-a92f7adeca95/main/160x90/30s/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      },
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/f06ed23a-829b-444b-bd62-a92f7adeca95/main/1280x720/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/f06ed23a-829b-444b-bd62-a92f7adeca95/main/1280x720/30s/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "main (1)",
+    "original_filename": "main (1).mp4",
+    "projection": null,
+    "published_at": "2023-10-31T03:32:08.076Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-31T03:35:15.947Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "6198c17bbbdc42a4bb60a41f"
+  },
+  {
+    "id": "6340197416112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-31T03:31:39.221Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 60000,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/94bd3e4e-35ad-4fcd-b4cb-d02100ef7695/main/1280x720/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/94bd3e4e-35ad-4fcd-b4cb-d02100ef7695/main/1280x720/30s/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      },
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/94bd3e4e-35ad-4fcd-b4cb-d02100ef7695/main/160x90/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/94bd3e4e-35ad-4fcd-b4cb-d02100ef7695/main/160x90/30s/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "test",
+    "original_filename": "test.mp4",
+    "projection": null,
+    "published_at": "2023-10-31T03:31:39.221Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-31T03:33:30.832Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "6198c17bbbdc42a4bb60a41f"
+  },
+  {
+    "id": "6340196717112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-31T03:27:19.192Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 60000,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/bedab16e-6116-410c-8f6e-ac1f08787a74/main/1280x720/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/bedab16e-6116-410c-8f6e-ac1f08787a74/main/1280x720/30s/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      },
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/bedab16e-6116-410c-8f6e-ac1f08787a74/main/160x90/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/bedab16e-6116-410c-8f6e-ac1f08787a74/main/160x90/30s/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "test",
+    "original_filename": "test.mp4",
+    "projection": null,
+    "published_at": "2023-10-31T03:27:19.192Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-31T03:29:51.589Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "1f6f2d9a603f4b7d871e149d"
+  },
+  {
+    "id": "6340196716112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-31T03:26:58.537Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 60000,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/a78870c5-30af-4c60-89b9-9140a03fe026/main/160x90/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/a78870c5-30af-4c60-89b9-9140a03fe026/main/160x90/30s/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      },
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/a78870c5-30af-4c60-89b9-9140a03fe026/main/1280x720/30s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/a78870c5-30af-4c60-89b9-9140a03fe026/main/1280x720/30s/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "test",
+    "original_filename": "test.mp4",
+    "projection": null,
+    "published_at": "2023-10-31T03:26:58.537Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-31T03:28:52.421Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "6198c17bbbdc42a4bb60a41f"
+  },
+  {
+    "id": "6338400379112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-04T18:25:59.562Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 59930,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/acc26242-cbeb-43d5-bcc9-d14f523248e6/main/1280x720/5s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/acc26242-cbeb-43d5-bcc9-d14f523248e6/main/1280x720/5s/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      },
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/acc26242-cbeb-43d5-bcc9-d14f523248e6/main/160x90/5s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/acc26242-cbeb-43d5-bcc9-d14f523248e6/main/160x90/5s/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "BC TEST SUPPORT",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2023-10-04T18:25:59.555Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-04T18:58:39.407Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "6198c17bbbdc42a4bb60a41f"
+  },
+  {
+    "id": "6338397974112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-04T17:29:14.757Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 59961,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/9c08ee92-abf9-44a2-8f76-9d0cddd836eb/main/160x90/5s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/9c08ee92-abf9-44a2-8f76-9d0cddd836eb/main/160x90/5s/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      },
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/9c08ee92-abf9-44a2-8f76-9d0cddd836eb/main/1280x720/5s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/9c08ee92-abf9-44a2-8f76-9d0cddd836eb/main/1280x720/5s/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "test BC Support",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2023-10-04T17:29:14.750Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-04T18:04:58.976Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "6198c17bbbdc42a4bb60a41f"
+  },
+  {
+    "id": "6338397968112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-04T17:25:45.842Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 39403,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/7c7c8b11-9511-47cf-9730-7b5032c9de14/main/160x90/5s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/7c7c8b11-9511-47cf-9730-7b5032c9de14/main/160x90/5s/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      },
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/7c7c8b11-9511-47cf-9730-7b5032c9de14/main/1280x720/5s/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/7c7c8b11-9511-47cf-9730-7b5032c9de14/main/1280x720/5s/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "DRM LIVE EVENT",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2023-10-04T17:25:45.835Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-04T17:32:27.159Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "6198c17bbbdc42a4bb60a41f"
+  },
+  {
+    "id": "6338328059112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-10-03T18:14:57.292Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "live_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": -1,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "testest",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2023-10-03T18:14:57.286Z",
+    "reference_id": "testest",
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-10-03T18:14:57.897Z",
+    "updated_by": {
+      "type": "api_key"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": null
+  },
+  {
+    "id": "6337808183112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-09-25T17:02:19.872Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 32647,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/77fdc208-3419-4849-b65c-1fed987113a4/main/160x90/16s323ms/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/77fdc208-3419-4849-b65c-1fed987113a4/main/160x90/16s323ms/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      },
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/77fdc208-3419-4849-b65c-1fed987113a4/main/1280x720/16s323ms/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/77fdc208-3419-4849-b65c-1fed987113a4/main/1280x720/16s323ms/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "https://house-fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/pmp4/static/clear/6147389483001/ae124124-ffef-4a53-b869-de8664aa7359/75f2eb3f-435a-4943-a99b-02eff52c7b74/main.mp4?fastly_token=NjU0MmJhMmRfMGJiMDg5Yzc4NzFjNzRlNWMyZWQ1YTViNzZiOTlkNmNiZ",
+    "original_filename": "main.mp4",
+    "projection": null,
+    "published_at": "2023-09-25T17:02:19.872Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-09-25T17:04:37.116Z",
+    "updated_by": {
+      "type": "internal"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "6198c17bbbdc42a4bb60a41f"
+  },
+  {
+    "id": "6335600189112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-08-25T22:12:28.848Z",
+    "created_by": {
+      "type": "user",
+      "id": "76076272331",
+      "email": "dvidaurri@brightcove.com"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "dynamic_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": 24825,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": true,
+    "images": {
+      "poster": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/c30493ef-db52-4190-981b-f07409c31ef1/main/1280x720/12s412ms/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/c30493ef-db52-4190-981b-f07409c31ef1/main/1280x720/12s412ms/match/image.jpg",
+            "height": 720,
+            "width": 1280
+          }
+        ]
+      },
+      "thumbnail": {
+        "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/c30493ef-db52-4190-981b-f07409c31ef1/main/160x90/12s412ms/match/image.jpg",
+        "sources": [
+          {
+            "src": "https://cf-images.ap-northeast-1.prod.boltdns.net/v1/jit/6415608796001/c30493ef-db52-4190-981b-f07409c31ef1/main/160x90/12s412ms/match/image.jpg",
+            "height": 90,
+            "width": 160
+          }
+        ]
+      }
+    },
+    "link": null,
+    "long_description": null,
+    "name": "Elephant",
+    "original_filename": "Elephant.mp4",
+    "projection": null,
+    "published_at": "2023-08-25T22:12:28.848Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [
+      {
+        "id": "1e90b56d-1865-45e1-824f-42e4b840544b",
+        "account_id": "6415608796001",
+        "src": "http://house-fastly-signed-ap-northeast-1-prod.brightcovecdn.com/media/v1/text/vtt/clear/6415608796001/c30493ef-db52-4190-981b-f07409c31ef1/1e90b56d-1865-45e1-824f-42e4b840544b/text.vtt?fastly_token=NjYwOGQ0YjhfNGQ0NWU5MzNlNjJjOTA0NGRjMDVlZjQ4YzZiODJjMmJiNTNiODQ2NWQwMDhkOGM2NWZlNTkzZGMwNzJjMjQxZl9odHRwOi8vaG91c2UtZmFzdGx5LXNpZ25lZC1hcC1ub3J0aGVhc3QtMS1wcm9kLmJyaWdodGNvdmVjZG4uY29tL21lZGlhL3YxL3RleHQvdnR0L2NsZWFyLzY0MTU2MDg3OTYwMDEvYzMwNDkzZWYtZGI1Mi00MTkwLTk4MWItZjA3NDA5YzMxZWYxLzFlOTBiNTZkLTE4NjUtNDVlMS04MjRmLTQyZTRiODQwNTQ0Yi90ZXh0LnZ0dA%3D%3D",
+        "srclang": "en",
+        "label": "en",
+        "kind": "captions",
+        "mime_type": "text/webvtt",
+        "status": "draft",
+        "asset_id": null,
+        "sources": [
+          {
+            "src": "http://house-fastly-signed-ap-northeast-1-prod.brightcovecdn.com/media/v1/text/vtt/clear/6415608796001/c30493ef-db52-4190-981b-f07409c31ef1/1e90b56d-1865-45e1-824f-42e4b840544b/text.vtt?fastly_token=NjYwOGQ0YjhfNGQ0NWU5MzNlNjJjOTA0NGRjMDVlZjQ4YzZiODJjMmJiNTNiODQ2NWQwMDhkOGM2NWZlNTkzZGMwNzJjMjQxZl9odHRwOi8vaG91c2UtZmFzdGx5LXNpZ25lZC1hcC1ub3J0aGVhc3QtMS1wcm9kLmJyaWdodGNvdmVjZG4uY29tL21lZGlhL3YxL3RleHQvdnR0L2NsZWFyLzY0MTU2MDg3OTYwMDEvYzMwNDkzZWYtZGI1Mi00MTkwLTk4MWItZjA3NDA5YzMxZWYxLzFlOTBiNTZkLTE4NjUtNDVlMS04MjRmLTQyZTRiODQwNTQ0Yi90ZXh0LnZ0dA%3D%3D"
+          },
+          {
+            "src": "https://house-fastly-signed-ap-northeast-1-prod.brightcovecdn.com/media/v1/text/vtt/clear/6415608796001/c30493ef-db52-4190-981b-f07409c31ef1/1e90b56d-1865-45e1-824f-42e4b840544b/text.vtt?fastly_token=NjYwOGQ0YjhfNGFmYThlY2VjMmE4OTZkZjRhNzBjY2I2ZWFhOThkZmYzOGMzOTRkYWFjYjY2ZGQwOTQyYWFhODMyOWI2YTdiMl9odHRwczovL2hvdXNlLWZhc3RseS1zaWduZWQtYXAtbm9ydGhlYXN0LTEtcHJvZC5icmlnaHRjb3ZlY2RuLmNvbS9tZWRpYS92MS90ZXh0L3Z0dC9jbGVhci82NDE1NjA4Nzk2MDAxL2MzMDQ5M2VmLWRiNTItNDE5MC05ODFiLWYwNzQwOWMzMWVmMS8xZTkwYjU2ZC0xODY1LTQ1ZTEtODI0Zi00MmU0Yjg0MDU0NGIvdGV4dC52dHQ%3D"
+          }
+        ],
+        "in_band_metadata_track_dispatch_type": "",
+        "default": false
+      }
+    ],
+    "transcripts": [],
+    "updated_at": "2023-09-25T17:01:30.534Z",
+    "updated_by": {
+      "type": "user",
+      "id": "76076188017",
+      "email": "jgallo@brightcove.com"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": "6198c17bbbdc42a4bb60a41f"
+  },
+  {
+    "id": "6336942121112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-09-11T00:43:10.641Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "live_origin",
+    "description": "Ricardo's event",
+    "digital_master_id": null,
+    "duration": -1,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "DRM w/JWT Test",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2023-09-11T00:43:10.635Z",
+    "reference_id": null,
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-09-11T00:43:11.480Z",
+    "updated_by": {
+      "type": "api_key"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": null
+  },
+  {
+    "id": "6336694648112",
+    "account_id": "6415608796001",
+    "ad_keys": null,
+    "clip_source_video_id": null,
+    "complete": true,
+    "created_at": "2023-09-06T19:13:04.186Z",
+    "created_by": {
+      "type": "api_key"
+    },
+    "cue_points": [],
+    "custom_fields": {},
+    "delivery_type": "live_origin",
+    "description": null,
+    "digital_master_id": null,
+    "duration": -1,
+    "economics": "AD_SUPPORTED",
+    "folder_id": null,
+    "geo": null,
+    "has_digital_master": false,
+    "images": {},
+    "link": null,
+    "long_description": null,
+    "name": "DRM Oliver",
+    "original_filename": null,
+    "projection": null,
+    "published_at": "2023-09-06T19:13:04.180Z",
+    "reference_id": "DRMO_1",
+    "schedule": null,
+    "sharing": null,
+    "state": "ACTIVE",
+    "tags": [],
+    "text_tracks": [],
+    "transcripts": [],
+    "updated_at": "2023-09-06T19:13:04.722Z",
+    "updated_by": {
+      "type": "api_key"
+    },
+    "playback_rights_id": "primary",
+    "ingestion_profile_id": null
+  }
+]

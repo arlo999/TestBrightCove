@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2-query</title>
+</head>
+<body>
+    <ul id="video-list">
+    <li >
+     ID, Name
+    </li>
+    </ul>
+</body>
+<script>
+    async function getVideoList(){
+        const response = await fetch("6415608796001-videos.json");
+        const videos = await response.json();
+        return videos;
+    }
+    async function renderList(){
+        const videos = await getVideoList();
+        const videoListElement = document.getElementById("video-list");
+        for(let video of videos){
+            const li = document.createElement("li");
+            li.innerHTML = `${video.id}, ${video.name}`;
+            videoListElement.appendChild(li);
+        }
+        
+    }
+    renderList();
+</script>
+
+</html>
